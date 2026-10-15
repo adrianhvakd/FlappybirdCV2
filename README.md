@@ -1,4 +1,4 @@
-# Flappy Bird con Visión Artificial 🐦🖐️
+# Flappy Bird con Visión Artificial 
 
 Un juego estilo Flappy Bird que se controla **con la mano** a través de la webcam.
 No se necesita teclado ni ratón: el pájaro aletea cuando **juntas el pulgar y el
