@@ -185,12 +185,12 @@ flappybird_vision/
 - **Aviso de fuentes de Qt** al abrir la ventana de la cámara: es inofensivo
   (el texto se dibuja con las fuentes propias de OpenCV).
 
-## Empaquetado: instaladores para Linux y Windows 📦
+## Empaquetado: instaladores para Linux y Windows 
 
 Se puede empaquetar todo (código, dependencias y modelo) en una aplicación
 que no necesita Python instalado, usando **PyInstaller**.
 
-> ⚠️ **No hay compilación cruzada**: el paquete de Windows se genera en
+> **No hay compilación cruzada**: el paquete de Windows se genera en
 > Windows y el de Linux en Linux. La forma cómoda de obtener **ambos** es la
 > integración de GitHub Actions incluida (ver más abajo).
 
